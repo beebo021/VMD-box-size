@@ -1,0 +1,9 @@
+molinfo top set a 40.0
+molinfo top set b 30.0
+molinfo top set c 30.0
+molinfo top set alpha 90.0
+molinfo top set beta 90.0
+molinfo top set gamma 90.0
+mol showperiodic 0 0 xyzXYZ
+mol numperiodic 0 0 1
+scale by 0.25
